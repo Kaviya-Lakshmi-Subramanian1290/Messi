@@ -1,0 +1,42 @@
+body {
+  background-color: #ffffff;
+  color: #f4f4f4;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  padding: 25px;
+}
+
+h1 {
+  color: #000000;
+  font-size: 38px;
+}
+
+h3 {
+  color: #000000;
+  font-family: "Georgia", serif;
+}
+
+h2 {
+  color: #ff7f50;
+  margin-top: 25px;
+}
+
+h4 {
+  color: #7fffd4;
+  font-family: "Courier New", monospace;
+}
+
+p {
+  background-color: #1c1c3c;
+  padding: 12px;
+  width: 65%;
+  margin: 12px auto;
+  border-radius: 10px;
+  line-height: 22px;
+}
+
+img {
+  border-radius: 15px;
+  margin: 15px;
+  transition: transform 0.3s;
+} 
